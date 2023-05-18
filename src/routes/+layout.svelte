@@ -2,14 +2,12 @@
 
     <div class="nav-container">
       <a href="/" class="nav-logo" title="Back to Homepage">Артём Тушалиев</a>
-      <div class="nav-links">
-        <a href="/about" class="link">Обо мне</a>
-        <a href="/blog" class="link">Блог</a>
-        <a href="/projects" class="link">Портфолио</a>
-        <a href="/contact" class="link">Контакты</a>
-      </div>
+      <div class="nav-links"></div>
     </div>
   </nav>
+  {#each nav as link}
+  <a href={link.href} class="link">{link.title}</a>
+  {/each}
   
   <div class="container">
     <!-- Pages will be injected below -->
@@ -37,7 +35,12 @@
     {
       title: 'temp',
       href: '/temp'
-    }
+    },
+    {
+  "title": "temp",
+  "href": "/temp"
+}
+
   ]
 </script>
 
