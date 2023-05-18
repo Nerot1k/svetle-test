@@ -2,7 +2,7 @@
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 
 <svelte:head>
-<title>Имя Фамилия</title>
+<title>Артём Тушалиев</title>
 </svelte:head>
 
 <div class='container'>
