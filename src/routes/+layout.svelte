@@ -17,19 +17,19 @@
   <script>
     const nav = [
     {
-      title: 'Обо мне',
+      title: 'Обо мне ',
       href: '/about'
     } ,
     {
-      title: 'Блог',
+      title: 'Блог ',
       href: '/blog'
     } ,
     {
-      title: 'Портфолио',
+      title: 'Портфолио ',
       href: '/project'
     } ,
     {
-      title: 'Контакты',
+      title: 'Контакты ',
       href: '/contact'
     } ,
     {
