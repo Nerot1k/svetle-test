@@ -6,8 +6,8 @@
     </div>
   </nav>
   {#each nav as link}
-  <a href={link.href} class="link">{link.title}</a>
-  {/each}
+<a href={link.href} class="link">{link.title}</a>
+{/each}
   
   <div class="container">
     <!-- Pages will be injected below -->
@@ -20,22 +20,27 @@
       title: 'Обо мне',
       href: '/about'
     },
+
     {
       title: 'Блог',
       href: '/blog'
     },
+
     {
       title: 'Портфолио',
       href: '/project'
     },
+
     {
       title: 'Контакты',
       href: '/contact'
     },
+
     {
       title: 'temp',
       href: '/temp'
     },
+
     {
   "title": "temp",
   "href": "/temp"
