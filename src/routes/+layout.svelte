@@ -16,12 +16,6 @@
     <slot></slot>
   </div>
   
-  <style>
-    .container {
-      max-width: 1400px;
-      margin: 50px auto;
-    }
-  </style>
   <script>
     const nav = [
     {
@@ -46,3 +40,10 @@
     }
   ]
 </script>
+
+  <style>
+    .container {
+      max-width: 1400px;
+      margin: 50px auto;
+    }
+  </style>
