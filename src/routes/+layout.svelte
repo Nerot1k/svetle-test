@@ -19,19 +19,19 @@
     {
       title: 'Обо мне',
       href: '/about'
-    },
+    } ,
     {
       title: 'Блог',
       href: '/blog'
-    },
+    } ,
     {
       title: 'Портфолио',
       href: '/project'
-    },
+    } ,
     {
       title: 'Контакты',
       href: '/contact'
-    },
+    } ,
     {
       title: 'temp',
       href: '/temp'
