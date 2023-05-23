@@ -17,23 +17,23 @@
   <script>
    const nav = [
   {
-    title: 'Обо мне',
+    title: 'Обо мне ',
     href: '/about',
     isShow: true,
   },
   {
-    title: 'Блог',
+    title: 'Блог ',
     href: '/blog',
     isShow: true,
   },
 
   {
-    title: 'Портфолио',
+    title: 'Портфолио ',
     href: '/project',
     isShow: true,
   },
   {
-    title: 'Контакты',
+    title: 'Контакты ',
     href: '/contact',
     isShow: true,
   },
