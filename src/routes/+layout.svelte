@@ -21,7 +21,6 @@
     title: 'Обо мне ',
     href: '/about',
     isShow: true,
-    isShow: true,
   },
   
   {
@@ -42,7 +41,7 @@
   {
     title: 'temp ',
     href: '/temp',
-    isShow: true,
+    isShow: false,
   },
 ];
 </script>
