@@ -6,8 +6,8 @@
     </div>
   </nav>
   {#if link.isShow}
-<a href={link.href} class="link">{link.title}</a>
-{/if}
+  <a href={link.href} class="link">{link.title}</a>
+  {/if}
   
   <div class="container">
     <!-- Pages will be injected below -->
@@ -15,35 +15,35 @@
   </div>
   
   <script>
-    const nav = [
-
+   const nav = [
   {
-    title: 'Обо мне ',
+    title: 'Обо мне',
     href: '/about',
     isShow: true,
   },
-  
   {
-    title: 'Блог ',
+    title: 'Блог',
     href: '/blog',
     isShow: true,
   },
+
   {
-    title: 'Портфолио ',
+    title: 'Портфолио',
     href: '/project',
     isShow: true,
   },
   {
-    title: 'Контакты ',
+    title: 'Контакты',
     href: '/contact',
     isShow: true,
   },
   {
-    title: 'temp ',
+    title: 'temp',
     href: '/temp',
     isShow: false,
   },
 ];
+
 </script>
 
   <style>
