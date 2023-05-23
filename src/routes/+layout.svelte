@@ -42,7 +42,7 @@
   {
     title: 'temp ',
     href: '/temp',
-    isShow: false,
+    isShow: true,
   },
 ];
 </script>
@@ -53,4 +53,3 @@
       margin: 50px auto;
     }
   </style>
-слайд 27
