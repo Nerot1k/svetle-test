@@ -5,9 +5,9 @@
       <div class="nav-links"></div>
     </div>
   </nav>
-  {#if link.isShow}
-  <a href={link.href} class="link">{link.title}</a>
-  {/if}
+  {#each nav as link}
+<a href={link.href} class="link">{link.title}</a>
+{/each}
   
   <div class="container">
     <!-- Pages will be injected below -->
