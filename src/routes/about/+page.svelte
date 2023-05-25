@@ -1,5 +1,5 @@
 <h1>Обо мне</h1>                                 
-<img src="C:\Users\Ученик\Desktop\svetle-test\img\Art.jpg" alt="Моё фото">
+<img src="\img\Art.jpg" alt="Моё фото">
 <p>Я Артём и мне 15 лет. Живу в Ноябрьске, ЯНАО, Россия.</p> 
 <h2>Хобби</h2>
 
