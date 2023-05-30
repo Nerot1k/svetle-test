@@ -1,5 +1,5 @@
 <style>
-			body {
+			div {
 			  background-position: left top;
 			  font-family: "Inter", sans-serif;
 			  margin: 0;
