@@ -1,7 +1,7 @@
    <div class="quiz-container" id="quiz">
 
         <div class="quiz-header">
-            <h1 id="title">МузВикторина <img class="photo svelte-192ixv5" src="/img/f1.jpg" alt="photo" width="200"></h1>
+            <h1 id="title">МузВикторина</h1>
             <h2 id="question">Вопрос1</h2>
             <ul>
                 <li>
