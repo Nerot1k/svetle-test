@@ -15,7 +15,7 @@
 			  color: black;
 			}
 	  
-			h1 {
+			div {
 			  position: sticky;
 			  top: 0;
 			  left: 0;
