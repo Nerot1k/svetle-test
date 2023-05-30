@@ -144,19 +144,6 @@ submitBtn.addEventListener('click', () => {
         * {
     box-sizing: border-box;
 }
-
-body {
-    background-color: #b8c6db;
-    background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7f7 100%);
-    font-family: 'Poppins', sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    overflow: hidden;
-    margin: 0;
-}
-
 .quiz-container {
     background-color: #F1F1F1;
     border-radius: 10px;

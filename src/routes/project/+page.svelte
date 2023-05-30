@@ -10,6 +10,7 @@
 				<h2>{page.title}</h2>
 				<p>{page.body}</p>
 				<p class='readmore'>
+          
 					<a class='link' href={`/project/apps/${page.id}`}>
 						Читать далее
 					</a>

@@ -2,7 +2,7 @@
 
 <div>
 	<ul>
-		<li>Email: [email]</li>
+		<li>Email: []</li>
 		<li>Телефон: [номер телефона]</li>
 		<li>Адрес: [адрес]</li>
 	</ul>
