@@ -25,7 +25,7 @@
 			  padding-bottom: 2rem;
 			}
 	  
-			div {
+			ul {
 			  display: flex;
 			  justify-content: space-between;
 			  align-items: center;
