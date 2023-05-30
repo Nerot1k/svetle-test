@@ -55,7 +55,7 @@
 			}
 		  </style>
 		
-
+<h1>Контакты</h1>
 <div class="svelte-1wltilb"><ul><li>Email: [email]</li>
 		<li>Телефон: [номер телефона]</li>
 		<li>Адрес: [адрес]</li></ul>
