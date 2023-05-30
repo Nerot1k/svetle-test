@@ -15,7 +15,7 @@
 			  color: black;
 			}
 	  
-			nav {
+			h1 {
 			  position: sticky;
 			  top: 0;
 			  left: 0;
