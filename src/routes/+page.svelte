@@ -43,7 +43,7 @@
 
     .container {
         max-width: 1400px;
-        margin: 190px 20 20 2.5rem;
+        margin: 190px 0 0 2.5rem;
     }
 
     .info h1 {
@@ -54,7 +54,7 @@
     .info h1 p {
         position: relative;
         font: inherit;
-        margin: 0;
+        margin: 20;
         text-align: left;
         line-height: 130%;
         width: fit-content;
