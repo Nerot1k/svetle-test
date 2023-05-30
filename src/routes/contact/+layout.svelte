@@ -54,10 +54,6 @@
       color: black;
     }
   </style>
-  <nav><div class="nav-container"><a href="/" class="nav-logo" title="Back to Homepage">Андрей Кузнецов</a>
-    <div class="nav-links"><a href="/about" class="link">Обо мне</a><a href="/blog" class="link">Блог</a><a href="/project" class="link">Портфолио</a><a href="/contact" class="link">Контакты</a></div></div></nav>
-
-<div class="container svelte-1m8mvlz">
 <h1>Контакты</h1>
 
 <div class="svelte-1wltilb"><ul><li>Email: [artemtusaliev11@gmail.com]</li>
@@ -65,5 +61,4 @@
     <li>Вконтакте: https://vk.com/</li>
 </ul>
 
-</div>
 </div>
