@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
-		<meta name="viewport" content="width=device-width" />
-		<style>
+<style>
 			body {
 			  background-position: left top;
 			  font-family: "Inter", sans-serif;
@@ -61,54 +55,8 @@
 			}
 		  </style>
 		
-		<link href="./_app/immutable/assets/_layout.65099de4.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/_page.49704240.css" rel="stylesheet">
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">
-
-<div class="container svelte-1m8mvlz">
-    <h1>Контакты</h1>
 
 <div class="svelte-1wltilb"><ul><li>Email: [email]</li>
 		<li>Телефон: [номер телефона]</li>
 		<li>Адрес: [адрес]</li></ul>
-
-
-
-	<p class="svelte-1wltilb">Я буду рад видеть вас в своих контактах и готов настроить полезные и
-		продуктивные отношения. Если вы заинтересованы в сотрудничестве, я всегда
-		готов обсудить возможности и принять участие в вашем проекте.
-	</p>
 </div>
-</div>
-
-
-			
-			<script>
-				{
-					__sveltekit_to3qk8 = {
-						base: new URL(".", location).pathname.slice(0, -1),
-						env: {}
-					};
-
-					const element = document.currentScript.parentElement;
-
-					const data = [null,null];
-
-					Promise.all([
-						import("./_app/immutable/entry/start.1ee0651f.js"),
-						import("./_app/immutable/entry/app.73eb89e8.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 13],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
