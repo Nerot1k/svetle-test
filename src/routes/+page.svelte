@@ -43,6 +43,7 @@
 
     .container {
         max-width: 1400px;
+        padding-left: 20px;
         margin: 190px 0 0 2.5rem;
     }
 
