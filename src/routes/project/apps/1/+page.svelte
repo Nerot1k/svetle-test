@@ -1,4 +1,4 @@
-<h1>My to-do list</h1>
+<h1>Список дел</h1>
 <main>
     <form on:submit|preventDefault={add}>
         <input bind:value={newItem} placeholder="Enter to-do" />
