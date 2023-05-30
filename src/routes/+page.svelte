@@ -43,7 +43,7 @@
 
     .container {
         max-width: 1400px;
-        margin: 190px 0 0 2.5rem;
+        margin: 190px 20 20 2.5rem;
     }
 
     .info h1 {
