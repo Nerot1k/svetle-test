@@ -1,5 +1,5 @@
 <style>
-			div {
+			body {
 			  background-position: left top;
 			  font-family: "Inter", sans-serif;
 			  margin: 0;
@@ -25,7 +25,7 @@
 			  padding-bottom: 2rem;
 			}
 	  
-			nav .nav-container {
+			div {
 			  display: flex;
 			  justify-content: space-between;
 			  align-items: center;
