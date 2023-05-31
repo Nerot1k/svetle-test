@@ -13,5 +13,10 @@ export const routes = [
 		id: 3,
 		title: 'Тест по гитарам',
 		body: 'МузВикторина',
-	}
+	},
+	{
+		id: 4,
+		title: 'GuitarBand',
+		body: 'Сайт про гитары и всё о них.'
+	},
    ];
