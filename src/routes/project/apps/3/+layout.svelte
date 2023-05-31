@@ -1,5 +1,5 @@
 <div class='container'>
-    <a href='/project'>Домой</a><br>
+    <a href='/project'>Домой</a><br><br>
     <slot/>
    </div>
    
